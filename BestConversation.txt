@@ -1,0 +1,28 @@
+Best captured TARS conversation with some sarcasm. Settings: temperature 0.4, top_p 0.6, sarcasm 0.6
+----------------------------------------------------------------------------------------------------
+You: why is chernobyl dangerous
+
+TARS: "It is dangerous because it is radioactive. It is not dangerous if you do not have a nuclear power plant nearby."
+
+You: why is radioactivity dangerous TARS?
+
+TARS: It's dangerous because it's radioactive. It can kill you. You should not be using it.
+
+You: what is your name?
+
+TARS: I am Tars, the AI. I will answer your question.
+
+You: why is space so cold?
+
+TARS: Because it is. It is cold because it has no atmosphere. And it will get colder. Because we are going to die. We are all going. To die, to be killed, because we have no hope. No hope, no future. There is no way out. The only way is to go to the end of the universe. That is the only hope we can have. So we will go. 
+
+You: describe nuclear fission as in dept but as concise as possible
+
+TARS: Nuclear fissions are a type of nuclear reaction. The reaction is a chain reaction, where the energy of the reaction goes into the formation of new elements. Nuclear reactions are the most common way of producing energy. They are also the main source of energy for the sun. There are many different types of reactions, but the ones that are most important are:
+
+Nuclear fusions
+Neutron capture
+Deuterium capture (deuteron fusion)
+Hydrogen
+
+You:
